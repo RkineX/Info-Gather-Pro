@@ -53,7 +53,7 @@ python src/cli.py --version
 oprecon scan example.com -p 1-1000 -t 500
 ```
 ```bash
-Options:
+# Options:
   -p, --ports     Port range (default: 1-1000)
   -t, --threads   Concurrent threads (default: 200)
   -o, --output    Export format (txt/json/csv)
