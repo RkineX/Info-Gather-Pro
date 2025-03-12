@@ -1,5 +1,5 @@
-# OPRecon Pro 🔍  
-**Advanced Network Reconnaissance Suite by `RkineX`⚡**  
+# OPRecon Pro ⚡  
+**Advanced Network Reconnaissance Suite by `RkineX`🔍**  
 *Uncover Hidden Network Insights with Military-Grade Scanning*
 
 
