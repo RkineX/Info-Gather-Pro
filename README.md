@@ -55,6 +55,9 @@ oprecon scan example.com -p 1-1000 -t 500
 ```bash
 # Options:
   -p, --ports     Port range (default: 1-1000)
+  -s, --services  Service version detection
+  -d, --dns       DNS record enumeration
+  -w, --web       Web technology detection
   -t, --threads   Concurrent threads (default: 200)
   -o, --output    Export format (txt/json/csv)
   --stealth       Enable SYN scan (requires root)
