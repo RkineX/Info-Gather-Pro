@@ -87,7 +87,7 @@ X-Powered-By: PHP/7.4.3
 Security-Policy: HSTS=enabled, CSP=strict
 ```
 
-### **Features Comparison**  
+### **📈 Features Comparison** 
 | Feature | Original OPRecon | OPRecon Pro⚡ |  
 |--------|-------------|-------|  
 | **Scanning Speed** | 5 ports/sec | 1k ports/sec |  
